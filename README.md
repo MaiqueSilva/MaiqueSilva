@@ -28,4 +28,4 @@
      <a href = "https://github.com/MaiqueSilva"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 </div>
 
-[![readme](https://github-readme-stats.vercel.app/api/pin/?username=MaiqueSilva&repo=ELLEN2121&theme=react)](https://github.com/MaiqueSilva/MaiqueSilva)
+![Snake animation](https://github.com/MaiqueSilva/MaiqueSilva/blob/output/github-contribution-grid-snake.svg)
