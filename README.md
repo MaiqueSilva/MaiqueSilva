@@ -1,9 +1,6 @@
 ### Olá! Eu sou Maique Almeida. ✌️😊
-### Sou formado em direito e estou em transição de carreira. 👨‍🎓
 ### Apaixonado por tecnologia e corredor amador nas horas vagas. 💗🏃‍♂️
 <br>
-
-
 
 <div align="center">
   <a href="https://github.com/MaiqueSilva">
@@ -15,8 +12,10 @@
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="Rafa-pic" height="180" style="border-radius:50px;" src="https://media.tenor.com/6qsDAP2bLQgAAAAC/homework-work.gif">
-</div><br>
+  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media.tenor.com/6qsDAP2bLQgAAAAC/homework-work.gif">
+</div>
+
+##
 
 <div> 
  <a href="https://www.linkedin.com/in/maique-almeida-da-silva-856447181/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
