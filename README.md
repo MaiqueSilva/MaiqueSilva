@@ -1,5 +1,5 @@
 ### Olá! Eu sou Maique Almeida. ✌️😊
-### Apaixonado por tecnologia e corredor amador nas horas vagas. 💗🏃‍♂️
+
 <br>
 
 <div align="center">
