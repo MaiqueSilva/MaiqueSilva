@@ -1,4 +1,4 @@
-### Olá! Eu sou Maique Almeida. ✌️😊
+### Hello! i'm Maique Almeida. ✌️😊
 
 <br>
 
